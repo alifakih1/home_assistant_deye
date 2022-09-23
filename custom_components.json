@@ -2,12 +2,12 @@
     "omnik": {
         "version": "0.0.1",
         "local_location": "/custom_components/solarman/sensor.py",
-        "remote_location": "https://raw.githubusercontent.com/StephanJoubert/home_assistant_solarman/master/custom_components/solarman/sensor.py",
-        "visit_repo": "https://github.com/StephanJouberts/home_assistant_solarman",
-        "changelog": "https://github.com/StephanJoubert/home_assistant_solarman",
+        "remote_location": "https://raw.githubusercontent.com/StephanJoubert/home_assistant_deye/master/custom_components/solarman/sensor.py",
+        "visit_repo": "https://github.com/StephanJouberts/home_assistant_deye",
+        "changelog": "https://github.com/StephanJoubert/home_assistant_deye",
         "resources": [
-            "https://raw.githubusercontent.com/StephanJoubert/home_assistant_solarman/master/custom_components/solarman/__init__.py",
-            "https://raw.githubusercontent.com/StephanJoubert/home_assistant_solarman/master/custom_components/solarman/manifest.json"
+            "https://raw.githubusercontent.com/StephanJoubert/home_assistant_deye/master/custom_components/solarman/__init__.py",
+            "https://raw.githubusercontent.com/StephanJoubert/home_assistant_deye/master/custom_components/solarman/manifest.json"
         ]
     }
 }
